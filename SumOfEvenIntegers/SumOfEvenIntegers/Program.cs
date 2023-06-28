@@ -11,7 +11,7 @@ namespace SumOfEvenIntegers
         static int CalculateSumOfEvenNumbers(int[] array)
         {
             int sum = 0;
-            foreach (int number in array)
+            foreach (int number in array) // used foreach instead of for since I want to check every element of this array
             {
                 if (number % 2 == 0)
                 {
