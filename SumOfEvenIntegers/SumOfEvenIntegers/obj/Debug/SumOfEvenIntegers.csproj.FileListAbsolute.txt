@@ -1,0 +1,7 @@
+D:\GitHub\SumOfEvenIntegers\SumOfEvenIntegers\bin\Debug\SumOfEvenIntegers.exe.config
+D:\GitHub\SumOfEvenIntegers\SumOfEvenIntegers\bin\Debug\SumOfEvenIntegers.exe
+D:\GitHub\SumOfEvenIntegers\SumOfEvenIntegers\bin\Debug\SumOfEvenIntegers.pdb
+D:\GitHub\SumOfEvenIntegers\SumOfEvenIntegers\obj\Debug\SumOfEvenIntegers.csproj.AssemblyReference.cache
+D:\GitHub\SumOfEvenIntegers\SumOfEvenIntegers\obj\Debug\SumOfEvenIntegers.csproj.CoreCompileInputs.cache
+D:\GitHub\SumOfEvenIntegers\SumOfEvenIntegers\obj\Debug\SumOfEvenIntegers.exe
+D:\GitHub\SumOfEvenIntegers\SumOfEvenIntegers\obj\Debug\SumOfEvenIntegers.pdb
