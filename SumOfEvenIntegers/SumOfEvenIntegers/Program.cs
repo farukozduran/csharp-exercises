@@ -24,7 +24,7 @@ namespace SumOfEvenIntegers
         {
             Console.Write("Enter the size of your array: ");
             int sizeOfArray;
-            while (!int.TryParse(Console.ReadLine(), out sizeOfArray) || sizeOfArray <= 0)
+            while (!int.TryParse(Console.ReadLine(), out sizeOfArray) || sizeOfArray <= 0) // TryParse is controlling input either it is convertible to desired type of data or not
             {
                 Console.Write("Invalid input. Please enter a positive integer for the size of array: ");
             }
