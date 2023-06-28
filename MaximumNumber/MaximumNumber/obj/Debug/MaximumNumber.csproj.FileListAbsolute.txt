@@ -1,0 +1,7 @@
+D:\GitHub\MaximumNumber\MaximumNumber\obj\Debug\MaximumNumber.csproj.AssemblyReference.cache
+D:\GitHub\MaximumNumber\MaximumNumber\obj\Debug\MaximumNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\MaximumNumber\MaximumNumber\bin\Debug\MaximumNumber.exe.config
+D:\GitHub\MaximumNumber\MaximumNumber\bin\Debug\MaximumNumber.exe
+D:\GitHub\MaximumNumber\MaximumNumber\bin\Debug\MaximumNumber.pdb
+D:\GitHub\MaximumNumber\MaximumNumber\obj\Debug\MaximumNumber.exe
+D:\GitHub\MaximumNumber\MaximumNumber\obj\Debug\MaximumNumber.pdb
