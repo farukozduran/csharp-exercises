@@ -10,8 +10,8 @@ namespace SubsequenceMethod
     {
         static int IncreasingSubsequence(int[] inputArray)
         {
-            int count = 1;
-            int maxLength = 1;
+            int count = 1; // Minimum length of increasing subsequence is 1 (for the first element)
+            int maxLength = 1; // Initialize the maximum length to 1
             int i;
             for(i = 0; i < inputArray.Length - 1; i++)
             {
@@ -20,12 +20,12 @@ namespace SubsequenceMethod
                     count++;
                     if(count > maxLength)
                     {
-                        maxLength = count;
+                        maxLength = count; // To not to lose counted subsequence save the count to a variable 
                     }
                 }
                 else
                 {
-                    count = 1;
+                    count = 1; 
                 }
 
                 
@@ -36,7 +36,7 @@ namespace SubsequenceMethod
 
         static void Main(string[] args)
         {
-            Console.Write("Please enter the size of your array: ");
+            Console.Write("Please enter the size of your array: "); 
             int sizeOfArray;
             while (!int.TryParse(Console.ReadLine(), out sizeOfArray) || sizeOfArray <= 1)
             {
@@ -45,7 +45,7 @@ namespace SubsequenceMethod
 
             int[] array = new int[sizeOfArray];
 
-            for(int i = 0;i < sizeOfArray; i++){
+            for(int i = 0;i < sizeOfArray; i++){ // Creating the array
                 Console.Write("Please enter {0} element of your array: ", i + 1);
                 while (!int.TryParse(Console.ReadLine(), out array[i])){
                     Console.Write("Invalid input. Please enter a valid integer: ");
