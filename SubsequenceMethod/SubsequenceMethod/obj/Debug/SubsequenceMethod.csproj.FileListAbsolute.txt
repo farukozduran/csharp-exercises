@@ -1,0 +1,7 @@
+D:\GitHub\SubsequenceMethod\SubsequenceMethod\obj\Debug\SubsequenceMethod.csproj.AssemblyReference.cache
+D:\GitHub\SubsequenceMethod\SubsequenceMethod\obj\Debug\SubsequenceMethod.csproj.CoreCompileInputs.cache
+D:\GitHub\SubsequenceMethod\SubsequenceMethod\bin\Debug\SubsequenceMethod.exe.config
+D:\GitHub\SubsequenceMethod\SubsequenceMethod\bin\Debug\SubsequenceMethod.exe
+D:\GitHub\SubsequenceMethod\SubsequenceMethod\bin\Debug\SubsequenceMethod.pdb
+D:\GitHub\SubsequenceMethod\SubsequenceMethod\obj\Debug\SubsequenceMethod.exe
+D:\GitHub\SubsequenceMethod\SubsequenceMethod\obj\Debug\SubsequenceMethod.pdb
